@@ -26,14 +26,21 @@ After adding the marketplace:
 
 ## Updating
 
-Update the marketplace to get the latest versions:
+**Option 1: Enable auto-update (recommended)**
 
-```
-/plugin marketplace update cyberswat
+1. Run `/plugin` to open the plugin manager
+2. Go to **Marketplaces** tab
+3. Select `cyberswat`
+4. Enable auto-update
+
+**Option 2: Manual update via CLI**
+
+```bash
+claude plugin update projects@cyberswat
 ```
 
-Then update individual plugins:
+**Option 3: Manual update via UI**
 
-```
-/plugin update projects@cyberswat
-```
+1. Run `/plugin`
+2. Go to **Marketplaces** tab
+3. Select `cyberswat` and update
