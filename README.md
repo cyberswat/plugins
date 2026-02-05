@@ -7,7 +7,7 @@ A marketplace of plugins for [Claude Code](https://claude.ai/code).
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add cyberswat/plugins
+/plugin marketplace add cyberswat/claude-marketplace
 ```
 
 ## Available Plugins
@@ -16,7 +16,7 @@ Add this marketplace to Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
-| [projects](https://github.com/cyberswat/projects) | Multi-project management with context saving |
+| [projects](https://github.com/cyberswat/claude-plugin-projects) | Multi-project management with context saving |
 
 ### Thinking
 
