@@ -18,10 +18,10 @@
     },
     {
       "name": "analysis",
-      "description": "Structured thinking framework for analysis and decision-making",
-      "version": "1.0.0",
+      "description": "Structured thinking framework with rich persona generation, cross-domain critique, and decision commitment",
+      "version": "1.1.0",
       "category": "thinking",
-      "keywords": ["analysis", "thinking", "decision-making", "research", "critique", "framework"],
+      "keywords": ["analysis", "thinking", "decision-making", "research", "critique", "framework", "persona", "decide"],
       "source": {
         "source": "github",
         "repo": "cyberswat/claude-plugin-analysis"
