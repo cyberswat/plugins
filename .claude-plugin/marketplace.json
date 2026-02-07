@@ -19,7 +19,7 @@
     {
       "name": "analysis",
       "description": "Structured thinking framework with research subagent, assumption tracking, severity rated critique, confidence calibrated synthesis, and adaptive decision guidance with type detection",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "category": "thinking",
       "keywords": ["analysis", "thinking", "decision-making", "research", "critique", "framework", "persona", "decide", "subagent"],
       "source": {
